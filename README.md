@@ -1,4 +1,4 @@
-V1: What is it?
+**_The v.1.0: What is it?_**
 
 
 What is Clairvoyance fundamentally trying to do?
